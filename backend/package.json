@@ -1,0 +1,14 @@
+{
+  "name": "run-and-punch-game",
+  "version": "1.0.0",
+  "description": "A web-based game where a man runs continuously along a road and punches walls.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15",
+    "dotenv": "^8.2.0"
+  }
+}
